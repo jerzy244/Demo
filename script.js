@@ -25,41 +25,41 @@ btnCLR.addEventListener("click", function () {
 // Dynie
 //
 btn1_1.addEventListener("click", function () {
-  img1.src = "/img1/pumpkin2.webp";
+  img1.src = "img1/pumpkin2.webp";
 });
 
 btn1_2.addEventListener("click", function () {
-  img1.src = "/img1/pumpkin3.jpg";
+  img1.src = "img1/pumpkin3.jpg";
 });
 
 btn1_3.addEventListener("click", function () {
-  img1.src = "/img1/pumpkin4.jpg";
+  img1.src = "img1/pumpkin4.jpg";
 });
 //
 // Okna
 //
 btn2_1.addEventListener("click", function () {
-  img2.src = "/img2/okna2.jpg";
+  img2.src = "img2/okna2.jpg";
 });
 
 btn2_2.addEventListener("click", function () {
-  img2.src = "/img2/okna3.png";
+  img2.src = "img2/okna3.png";
 });
 
 btn2_3.addEventListener("click", function () {
-  img2.src = "/img2/okna4.jpg";
+  img2.src = "img2/okna4.jpg";
 });
 //
 // Kwadraty
 //
 btn3_1.addEventListener("click", function () {
-  img3.src = "/img3/kwadrat2.png";
+  img3.src = "img3/kwadrat2.png";
 });
 
 btn3_2.addEventListener("click", function () {
-  img3.src = "/img3/kwadrat3.png";
+  img3.src = "img3/kwadrat3.png";
 });
 
 btn3_3.addEventListener("click", function () {
-  img3.src = "/img3/kwadrat4.png";
+  img3.src = "img3/kwadrat4.png";
 });
